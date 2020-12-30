@@ -1,9 +1,7 @@
 ### Hi there 👋
 #### Myself [Lakshita Mohanty](github.com/Lakshita2002), an undergraduate student in Mechanical engineering department at IIT Kanpur
 
-- 🔭 I’m currently working on getting through the online semester with decent grades :stuck_out_tongue:
-- 🌱 I’m currently learning [française](https://en.wikipedia.org/wiki/French_language) :globe_with_meridians:
-- 👯 I’m looking to collaborate on any fun project which offers an opportunity to learn :octocat:
+- 🔭 I’m currently working on improving myself :relieved:
 - 🤔 I’m looking for help with a lot of things in life :neutral_face:
 - 📫 How to reach me: lakshitamohanty2002@gmail.com :email: lakshita@iitk.ac.in :e-mail:
 - ⚡ Fun fact: Online semester sucks if you didn't know already :slightly_smiling_face:
