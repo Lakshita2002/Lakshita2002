@@ -17,3 +17,7 @@
 <a href="https://dev.to/lakshita2002">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshita Mohanty's DEV Profile" height="30" width="30">
 </a>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lakshita2002&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
