@@ -18,5 +18,5 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshita Mohanty's DEV Profile" height="30" width="30">
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lakshita2002&count_private=true&show_icons=true&theme=dark&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats.vercel.app/api?username=Lakshita2002)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshita2002&theme=dark)](https://github.com/anuraghazra/github-readme-stats.vercel.api/top-langs?username=Lakshita2002)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lakshita2002&count_private=true&show_icons=true&theme=light&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats.vercel.app/api?username=Lakshita2002)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshita2002&theme=light)](https://github.com/anuraghazra/github-readme-stats.vercel.api/top-langs?username=Lakshita2002)
