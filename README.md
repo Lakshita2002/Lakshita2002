@@ -1,14 +1,15 @@
 ### Hi there 👋
 #### Myself [Lakshita Mohanty](github.com/Lakshita2002), an undergraduate student in Mechanical engineering department at IIT Kanpur
 
-- 🔭 I’m currently working on improving myself :relieved:
+- 🔭 I’m currently working on **not going insane during the SPO Intern Season** :relieved:
 - 🤔 I’m looking for help with a lot of things in life :neutral_face:
 - :cherry_blossom: I once spent 4 hours doing an assignment comprising of 2 questions (ESO203)
+- :anger: I spent 4 hours yesterday doing 1 question of ESO209 :notebook_with_decorative_cover:
 - :coffee: Coffee, the one thing I love the most and my body decided to react harshly to it; yep, life is good 
 - :heart: Tea :tea: and chocos with milk :milk_glass: are my new love; they're basically a rebound :sneezing_face:
 - 📫 How to reach me: lakshitamohanty2002@gmail.com :email: lakshita@iitk.ac.in :e-mail:
 - ⚡ Fun fact: Online semester sucks if you didn't know already :slightly_smiling_face:
-- 💀 Fun fact 2: Next semester will be online as well :broken_heart:
+- :bomb: Edit: The new semester sucks real bad, 4 quizzes and 6 assignment submissions in one week is an overkill :skull:
 
 #### Tsundoku (積ん読) 
 ###### *the act of acquiring books and letting them pile up without reading them*
