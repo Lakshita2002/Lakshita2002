@@ -10,6 +10,7 @@
 - 📫 How to reach me: lakshitamohanty2002@gmail.com :email: lakshita@iitk.ac.in :e-mail:
 - ⚡ Fun fact: Online semester sucks if you didn't know already :slightly_smiling_face:
 - :bomb: Edit: The new semester sucks real bad, 4 quizzes and 6 assignment submissions in one week is an overkill :skull:
+- :slightly_smiling_face: For any sort of RR do not hesitate to contact me (I am not kidding)
 
 #### Tsundoku (積ん読) 
 ###### *the act of acquiring books and letting them pile up without reading them*
