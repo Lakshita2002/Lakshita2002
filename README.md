@@ -31,9 +31,8 @@ However, there are books that I have read over and over again, mostly because th
 <code><img height="30" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 
 #### Hacktoberfest badge on DEV!
-<a href="https://dev.to/lakshita2002">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshita Mohanty's DEV Profile" height="30" width="30">
-</a>
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Lakshita Mohanty's DEV Profile" height="60" width="60"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="Lakshita Mohanty's DEV Profile" height="60" width="60">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="Lakshita Mohanty's DEV Profile" height="60" width="60">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lakshita2002&count_private=true&show_icons=true&theme=light&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats.vercel.app/api?username=Lakshita2002)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshita2002&theme=light)](https://github.com/anuraghazra/github-readme-stats.vercel.api/top-langs?username=Lakshita2002)
