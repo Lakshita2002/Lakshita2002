@@ -36,3 +36,5 @@ However, there are books that I have read over and over again, mostly because th
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lakshita2002&count_private=true&show_icons=true&theme=light&include_all_commits=true&)](https://github.com/anuraghazra/github-readme-stats.vercel.app/api?username=Lakshita2002)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshita2002&theme=light)](https://github.com/anuraghazra/github-readme-stats.vercel.api/top-langs?username=Lakshita2002)
+
+<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=Lakshita2002&bg_color=FFFFFF&color=000000&line=66806A&point=F8A427&hide_border=true&area=true&count_private=true"/>
